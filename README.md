@@ -5,7 +5,7 @@ Script tải truyện từ CuuTruyen.net
 ## Tính năng
 
 - Tải truyện từ CuuTruyen.net
-- Hỗ trợ DRM decryption để xử lý ảnh bị xáo trộn
+- Hỗ trợ DRM decryption để xử lý ảnh bị xáo trộn (Shuffle)
 
 ## Cách sử dụng
 
